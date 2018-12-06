@@ -1,0 +1,28 @@
+body {
+	background: url("http://www.devicedaily.com/wp-content/uploads/2014/11/3038762-poster-p-1-behold-the-taco-emoji.jpg")
+}
+
+h1 {
+	color: white;
+}
+
+.container {
+	background-color: #00CED1;
+	margin-bottom: 20px;
+	border: #FF4500 5px solid;
+}
+
+#add-food {
+	background-color: #FF4500;
+	color: white;
+}
+
+#food-input {
+	background-color: white;
+	color: grey;
+}
+
+button {
+	background-color: #FF4500;
+	color: white;
+}
